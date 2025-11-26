@@ -8,6 +8,5 @@ PharmaShare est une application destinée au **partage sécurisé de médicament
 ## Objectif
 Offrir une solution pratique pour partager les médicaments non utilisés, améliorer la santé publique et réduire le gaspillage.
 ## Technologies
-- Java + JavaFX (application desktop)  
-- Base de données MySQL  
+- Java + JavaFX (application desktop)   
 - Algorithmes de recherche pour trouver rapidement les médicaments
